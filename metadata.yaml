@@ -1,0 +1,5 @@
+homepage: "https://www.getadmiral.com/"
+documentation: "https://docs.getadmiral.com/docs/js-api-consent-mode"
+versions:
+  - sha: 62b6fc1576c93efc0cbaed2b1c0330ed0b601f2e
+    changeNotes: Initial release
